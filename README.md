@@ -17,6 +17,12 @@
 # Socials
 - I don't really use any social media, I don't like it. But you can reach me on <a href='https://www.linkedin.com/in/erik-avilov/'>LinkedIn</a>.
 
+# *Why am I here?*
+I mainly share my github page in my resumes or LinkedIn page, therefore I am continually documenting all of my projects.<br>
+Feel free to look around the pinned projects which are the most relevant *in my opinion*.
+
+
+
 ##### i also really like pigeons
 
 <!--
